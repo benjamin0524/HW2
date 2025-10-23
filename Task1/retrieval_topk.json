@@ -1,0 +1,245 @@
+{
+  "10_country_114_beat_4-4.wav": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/81_dance-breakbeat_170_beat_4-4.wav",
+      "clap_cosine": 0.9072301983833313
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/79_latin-reggaeton_90_beat_4-4.wav",
+      "clap_cosine": 0.899675190448761
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/1_funk_80_beat_4-4.wav",
+      "clap_cosine": 0.8970489501953125
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/80_dance-breakbeat_170_beat_4-4.wav",
+      "clap_cosine": 0.8963814973831177
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/146_latin-brazilian-baiao_95_beat_4-4.wav",
+      "clap_cosine": 0.8962069153785706
+    }
+  ],
+  "4_jazz_120_beat_3-4.wav": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+      "clap_cosine": 0.9313907027244568
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/79_latin-reggaeton_90_beat_4-4.wav",
+      "clap_cosine": 0.9257383942604065
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/77_jazz-mediumfast_180_beat_4-4.wav",
+      "clap_cosine": 0.9200313091278076
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/82_neworleans-funk_84_beat_4-4.wav",
+      "clap_cosine": 0.9181094169616699
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/239_funk-purdieshuffle_130_beat_4-4.wav",
+      "clap_cosine": 0.9102312922477722
+    }
+  ],
+  "6_rock_102_beat_3-4.wav": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/81_dance-breakbeat_170_beat_4-4.wav",
+      "clap_cosine": 0.9597797393798828
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/239_funk-purdieshuffle_130_beat_4-4.wav",
+      "clap_cosine": 0.956242024898529
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+      "clap_cosine": 0.9471981525421143
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/3_funk_80_beat_4-4.wav",
+      "clap_cosine": 0.9404823184013367
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/82_neworleans-funk_84_beat_4-4.wav",
+      "clap_cosine": 0.9338679313659668
+    }
+  ],
+  "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+      "clap_cosine": 0.7958406805992126
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/蔭中鳥.mp3",
+      "clap_cosine": 0.7734455466270447
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/漁舟唱晚 (笛).mp3",
+      "clap_cosine": 0.7589479684829712
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/安童哥買菜.MP3",
+      "clap_cosine": 0.7567398548126221
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/黃土情.mp3",
+      "clap_cosine": 0.7548846006393433
+    }
+  ],
+  "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+      "clap_cosine": 0.8373223543167114
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_02_Track02_wav.wav",
+      "clap_cosine": 0.8189823627471924
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_07_Track07_wav.wav",
+      "clap_cosine": 0.8150733709335327
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_04_ORIG_MID--AUDIO_18_R1_2004_07_Track07_wav.wav",
+      "clap_cosine": 0.8065629005432129
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_02_Track02_wav.wav",
+      "clap_cosine": 0.7987995147705078
+    }
+  ],
+  "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+      "clap_cosine": 0.7797315120697021
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_07_Track07_wav.wav",
+      "clap_cosine": 0.741014838218689
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_02_Track02_wav.wav",
+      "clap_cosine": 0.7337450385093689
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_02_Track02_wav.wav",
+      "clap_cosine": 0.7152326107025146
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_04_ORIG_MID--AUDIO_18_R1_2004_07_Track07_wav.wav",
+      "clap_cosine": 0.7071935534477234
+    }
+  ],
+  "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_04_ORIG_MID--AUDIO_18_R1_2004_07_Track07_wav.wav",
+      "clap_cosine": 0.691983699798584
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_03_Track03_wav.wav",
+      "clap_cosine": 0.6678807139396667
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1.wav",
+      "clap_cosine": 0.6527398824691772
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_02_Track02_wav.wav",
+      "clap_cosine": 0.6418982148170471
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_01-02_ORIG_MID--AUDIO_18_R1_2004_05_Track05_wav.wav",
+      "clap_cosine": 0.6338103413581848
+    }
+  ],
+  "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+      "clap_cosine": 0.77252197265625
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽明春曉  巫致廷演奏  陳志昇指揮.mp3",
+      "clap_cosine": 0.7420215606689453
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/燕子.mp3",
+      "clap_cosine": 0.7356863021850586
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/天山笛聲.mp3",
+      "clap_cosine": 0.731434166431427
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3",
+      "clap_cosine": 0.7258927822113037
+    }
+  ],
+  "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3": [
+    {
+      "rank": 1,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+      "clap_cosine": 0.7354346513748169
+    },
+    {
+      "rank": 2,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/漁舟唱晚 (笛).mp3",
+      "clap_cosine": 0.712172269821167
+    },
+    {
+      "rank": 3,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/安童哥買菜.MP3",
+      "clap_cosine": 0.7009105682373047
+    },
+    {
+      "rank": 4,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3",
+      "clap_cosine": 0.6770427823066711
+    },
+    {
+      "rank": 5,
+      "ref_path": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/蔭中鳥.mp3",
+      "clap_cosine": 0.675460934638977
+    }
+  ]
+}
