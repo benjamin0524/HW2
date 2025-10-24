@@ -1,0 +1,96 @@
+{
+  "config": {
+    "gen_dir": "music_control_results",
+    "target_dir": "/home/ubuntu/music/HW2/dataset/fundwotsai/Deep_MIR_hw2/target_music_list_60s",
+    "caps": "captions_qwen_audio_best.json",
+    "segment_sec": 30.0,
+    "multi_crops": 3,
+    "segment_mode": "uniform",
+    "device": "cuda"
+  },
+  "missing_target_matches": [],
+  "missing_caption_matches": [],
+  "results": {
+    "10_country_114_beat_4-4_gen.wav": {
+      "base_name": "10_country_114_beat_4-4",
+      "target_audio": "10_country_114_beat_4-4.wav",
+      "generated_audio": "10_country_114_beat_4-4_gen.wav",
+      "caption": "instrumental, drums, 120 bpm, 4/4, emotional, cinematic",
+      "clap_text_target": 0.37796151638031006,
+      "clap_text_gen": 0.36798131465911865,
+      "clap_gen_target": 0.894504189491272
+    },
+    "4_jazz_120_beat_3-4_gen.wav": {
+      "base_name": "4_jazz_120_beat_3-4",
+      "target_audio": "4_jazz_120_beat_3-4.wav",
+      "generated_audio": "4_jazz_120_beat_3-4_gen.wav",
+      "caption": "rock, drums, electric guitar, 120 bpm, 4/4, energetic, live",
+      "clap_text_target": 0.4420475959777832,
+      "clap_text_gen": 0.43742483854293823,
+      "clap_gen_target": 0.8042861223220825
+    },
+    "6_rock_102_beat_3-4_gen.wav": {
+      "base_name": "6_rock_102_beat_3-4",
+      "target_audio": "6_rock_102_beat_3-4.wav",
+      "generated_audio": "6_rock_102_beat_3-4_gen.wav",
+      "caption": "rock, drums, 120 bpm, 4/4, energetic, live",
+      "clap_text_target": 0.4830315113067627,
+      "clap_text_gen": 0.364738404750824,
+      "clap_gen_target": 0.8092032670974731
+    },
+    "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s_gen.wav": {
+      "base_name": "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s",
+      "target_audio": "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "generated_audio": "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s_gen.wav",
+      "caption": "acoustic, strings, 120 bpm, 4/4, emotional, cinematic",
+      "clap_text_target": 0.025563016533851624,
+      "clap_text_gen": 0.2350795567035675,
+      "clap_gen_target": 0.71844083070755
+    },
+    "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s_gen.wav": {
+      "base_name": "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s",
+      "target_audio": "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "generated_audio": "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s_gen.wav",
+      "caption": "background, piano, 120 bpm, 4/4, emotional, soundtrack",
+      "clap_text_target": 0.39064761996269226,
+      "clap_text_gen": 0.46615374088287354,
+      "clap_gen_target": 0.8928816318511963
+    },
+    "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s_gen.wav": {
+      "base_name": "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s",
+      "target_audio": "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "generated_audio": "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s_gen.wav",
+      "caption": "background, piano, 120 bpm, 4/4, emotional, cinematic",
+      "clap_text_target": 0.48860007524490356,
+      "clap_text_gen": 0.4452568292617798,
+      "clap_gen_target": 0.9321286678314209
+    },
+    "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】_gen.wav": {
+      "base_name": "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】",
+      "target_audio": "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "generated_audio": "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】_gen.wav",
+      "caption": "background, piano, 120 bpm, 4/4, emotional, soundtrack",
+      "clap_text_target": 0.27594321966171265,
+      "clap_text_gen": 0.42028629779815674,
+      "clap_gen_target": 0.8971290588378906
+    },
+    "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s_gen.wav": {
+      "base_name": "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s",
+      "target_audio": "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "generated_audio": "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s_gen.wav",
+      "caption": "[\\\"soundtrack\\\", \\\"acoustic guitar\\\", \\\"electric guitar\\\", \\\"bass\\\", \\\"drums\\\", \\\"violin\\\", \\\"cello\\\", \\\"strings\\\", \\\"orchestra\\\", \\\"saxophone\\\", \\\"trumpet\\\", \\\"horn\\\", \\\"clarinet\\\", \\\"synth\\\", \\\"pad\\\", \\\"lead\\\", \\\"bell\\\", \\\"harp\\\", \\\"choir\\\", \\\"male vocal\\\", \\\"female vocal\\\", \\\"percussion\\\", \\\"shaker\\\", \\\"toms\\\", \\\"4/4\\\", \\\"emotional\\\", \\\"melancholic\\\", \\\"nostalgic\\\", \\\"uplifting\\\"",
+      "clap_text_target": 0.2806929647922516,
+      "clap_text_gen": 0.5333640575408936,
+      "clap_gen_target": 0.5417765378952026
+    },
+    "竹笛｜这世界那么多人_cover 莫文蔚_60s_gen.wav": {
+      "base_name": "竹笛｜这世界那么多人_cover 莫文蔚_60s",
+      "target_audio": "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "generated_audio": "竹笛｜这世界那么多人_cover 莫文蔚_60s_gen.wav",
+      "caption": "cineamtic, flute, 120 bpm, 4/4, emotional",
+      "clap_text_target": 0.26154425740242004,
+      "clap_text_gen": 0.3428715467453003,
+      "clap_gen_target": 0.8527238368988037
+    }
+  }
+}
