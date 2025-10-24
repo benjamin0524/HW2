@@ -17,6 +17,7 @@ conda activate hw2
 
 
 🎼 Task 1 – Retrieval & Evaluation
+
 1️⃣ CLAP Retrieval (Task1/retrieval_clap.py)
 
 Compute CLAP-based similarity between target and reference music.
@@ -28,6 +29,7 @@ python Task1/retrieval_clap.py \
   --out retrieval_topk.json
   
 2️⃣ Melody Accuracy (Task1/evaluate_melody_batch.py)
+
 Compare melodic similarity between target and retrieved audio (key-invariant, DTW optional).
 
 python Task1/evaluate_melody_batch.py \
@@ -45,12 +47,15 @@ python Task1/evaluate_aesthetics.py \
 
   
 🎧 Task 2 – Music Generation & Full Evaluation
+
 1️⃣ Generate Captions (task2/caption_qwen_audio_best.py)
+
 Generate concise English captions using Qwen2-Audio and CLAP selection.
 
 python task2/caption_qwen_audio_best.py
 
 2️⃣ Music Generation (MuseControlLite)
+
 python task2/MuseControlLite.py
 
 3️⃣ CLAP Triple Similarity (task2/clap_triple_scores.py)
@@ -67,6 +72,7 @@ python task2/clap_triple_scores.py \
   --out-csv clap_triple_results.csv
   
 4️⃣ Aesthetic Comparison (task2/evaluate_aesthetics.py)
+
 Compare Aesthetic scores between target and generated audios.
 
 python task2/evaluate_aesthetics.py \
@@ -75,6 +81,7 @@ python task2/evaluate_aesthetics.py \
   --out-csv aesthetics_targets_gen.csv
 
 5️⃣ Melody Accuracy (task2/evaluate_melody_batch.py)
+
 Compare melodic structure between generated and target music (with DTW alignment).
 
 python task2/evaluate_melody_batch.py \
