@@ -23,8 +23,8 @@ class MuseControlLiteGenerator:
         captions_json="captions_qwen_audio_best.json",
         output_dir="gen_musecontrollite",
         condition_types=["melody_mono"],
-        guidance_scale_text=7.0,
-        guidance_scale_con=1.5,
+        guidance_scale_text=6.5,
+        guidance_scale_con=1.0,
         denoise_steps=50,
         device="cuda",
     ):
